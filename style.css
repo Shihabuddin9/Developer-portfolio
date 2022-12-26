@@ -40,3 +40,24 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+.middle-section {
+    margin-top: 150px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.img-style2 {
+    width: 90%;
+
+}
+
+.side-bar {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.half-width2 img {
+    width: 100%;
+}
